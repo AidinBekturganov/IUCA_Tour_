@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Vision--5ec7b8a001d0360016d49847.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Vision--5ec7b8a001d0360016d49847@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Vision--5ec7b8a001d0360016d49847@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

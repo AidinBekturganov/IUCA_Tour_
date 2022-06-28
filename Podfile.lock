@@ -1,0 +1,26 @@
+PODS:
+  - SDWebImage (5.8.4):
+    - SDWebImage/Core (= 5.8.4)
+  - SDWebImage/Core (5.8.4)
+  - SideMenu (6.5.0)
+  - SideMenuSwift (2.0.9)
+
+DEPENDENCIES:
+  - SDWebImage
+  - SideMenu
+  - SideMenuSwift
+
+SPEC REPOS:
+  trunk:
+    - SDWebImage
+    - SideMenu
+    - SideMenuSwift
+
+SPEC CHECKSUMS:
+  SDWebImage: cf6922231e95550934da2ada0f20f2becf2ceba9
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+  SideMenuSwift: 39f1922e225da4aaa8b16591037a929defe960c9
+
+PODFILE CHECKSUM: 17768dd8b38737ccd38e3190d6b98e26031066da
+
+COCOAPODS: 1.9.3
